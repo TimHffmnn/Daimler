@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@daimler/ftk-boilerplate": "^0.3.2"
+  }
+}
